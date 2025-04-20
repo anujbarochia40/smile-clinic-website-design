@@ -56,15 +56,15 @@ const Index = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <TestimonialCard
-              name="Sarah Johnson"
+              name="Priyansh Shah"
               testimonial="The best dental experience I've ever had. The staff is incredibly professional and caring."
             />
             <TestimonialCard
-              name="Michael Brown"
+              name="Dhruv Patel"
               testimonial="I was nervous about my dental implant, but the team made me feel comfortable throughout the entire process."
             />
             <TestimonialCard
-              name="Emily Davis"
+              name="Aarav Mehta"
               testimonial="My teeth have never looked better! Thank you DentalCare for giving me my confidence back."
             />
           </div>

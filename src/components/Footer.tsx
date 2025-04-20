@@ -19,7 +19,7 @@ export const Footer = () => {
               </div>
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 text-sky-600 mr-2" />
-                <span>123 Dental Street, City, State 12345</span>
+                <span>123 Dental Street, Kharghar, MH India 396002</span>
               </div>
             </div>
           </div>
